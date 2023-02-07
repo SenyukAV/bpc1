@@ -6,5 +6,6 @@ while(n<int(m)):
     n=n+1
 print(number)
 
+
 number2=[2**i for i in range(int(m))]
 print(number2)
